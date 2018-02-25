@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
 <meta charset="gb2312" />
@@ -61,29 +61,7 @@ padding:20px;}
 </div> 
 </body>
 <script>
-//alert (closed);
-//alert(window.defaultStatus);//设置或返回窗口状态栏中的默认文//本
-//alert(window.document);	///对 Document 对象的只读引用。请参阅 //Document 对象。
-//alert(window.history);//对 History 对象的只读引用。请参数 //History 对象。
-//*(innerheight)	返回窗口的文档显示区的高度。
-//(innerwidth)	返回窗口的文档显示区的宽度。
-//location	用于窗口或框架的 Location 对象。请参阅 Location //对象。
-//name	    设置或返回窗口的名称。
-document.write("<p>CodeName: ")
-document.write(navigator.javaEnabled() + "</p>")	
-//对 Navigator 对象的只读引用。请参数 
-//Navigator 对象。
-//opener	    返回对创建此窗口的窗口的引用。
-//outerheight	返回窗口的外部高度。
-//outerwidth	返回窗口的外部宽度。
-//pageXOffset	设置或返回当前页面相对于窗口显示区左上角的 X //位置。
-//pageYOffset	设置或返回当前页面相对于窗口显示区左上角的 Y 位置。
-//parent	   返回父窗口。
-//Screen	   对 Screen 对象的只读引用。请参数 Screen 对象。
-//self	  返回对当前窗口的引用。等价于 Window 属性。
-//status	   设置窗口状态栏的文本。
-//top	    返回最顶层的先辈窗口。
-//window
+
 alert(window.length);
 </script>
 
